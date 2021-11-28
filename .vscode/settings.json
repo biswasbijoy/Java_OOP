@@ -1,0 +1,13 @@
+{
+        "java.project.sourcePaths": [
+                "HW2\\src",
+                "HW1\\src",
+                "HW3\\src",
+                "HW4\\src",
+                "HW5\\src",
+                "HW6\\src",
+                "HW7\\src",
+                "HW8\\src",
+                "FOR TASK\\src"
+        ]
+}
