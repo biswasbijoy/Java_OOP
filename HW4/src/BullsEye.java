@@ -18,7 +18,7 @@ public class BullsEye extends JPanel{
                         }
                         
                         else {
-                                g.setColor(Color.green);
+                                g.setColor(Color.red);
                                 g.fillOval(width - i * 12, height - i * 12, i * 24, i * 24);
                         }
                                 

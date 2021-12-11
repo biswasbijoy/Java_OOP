@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Addition {
+public class AdditionGUI {
     
     public static void main(String[] args) {
         
